@@ -1,2 +1,2 @@
 # Basic_Aiogram
-BAsic Aiogram with folders and fails
+Basic Aiogram with folders and fails
